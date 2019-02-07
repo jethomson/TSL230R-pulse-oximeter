@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['adc_5fdisable',['ADC_Disable',['../group___group___a_d_c___a_v_r8.html#gae0feaa7ee6123bf21c7c91487adbacfd',1,'ADC_AVR8.h']]],
+  ['adc_5fdisablechannel',['ADC_DisableChannel',['../group___group___a_d_c___a_v_r8.html#ga17d2aeae7903d6976cc3098f69c89d8e',1,'ADC_AVR8.h']]],
+  ['adc_5fgetchannelreading',['ADC_GetChannelReading',['../group___group___a_d_c___a_v_r8.html#ga3116b4da402aab58216c25221d1d0337',1,'ADC_AVR8.h']]],
+  ['adc_5fgetresult',['ADC_GetResult',['../group___group___a_d_c___a_v_r8.html#gac4854b5c3786b601c6086d6d33540d03',1,'ADC_AVR8.h']]],
+  ['adc_5fgetstatus',['ADC_GetStatus',['../group___group___a_d_c___a_v_r8.html#ga2c20fcae42349c3b88a88d9451c4644b',1,'ADC_AVR8.h']]],
+  ['adc_5finit',['ADC_Init',['../group___group___a_d_c___a_v_r8.html#ga0695082ebfa70db350c35c60c3331d40',1,'ADC_AVR8.h']]],
+  ['adc_5fisreadingcomplete',['ADC_IsReadingComplete',['../group___group___a_d_c___a_v_r8.html#ga663edc77dcc57044e6d814c2717cb3c8',1,'ADC_AVR8.h']]],
+  ['adc_5fsetupchannel',['ADC_SetupChannel',['../group___group___a_d_c___a_v_r8.html#ga55e19285f496f50ea33ded90b2164ccc',1,'ADC_AVR8.h']]],
+  ['adc_5fstartreading',['ADC_StartReading',['../group___group___a_d_c___a_v_r8.html#ga6c5ca0bb028967254b40369575160973',1,'ADC_AVR8.h']]],
+  ['audio_5fdevice_5fconfigureendpoints',['Audio_Device_ConfigureEndpoints',['../group___group___u_s_b_class_audio_device.html#ga4e46328089c4efd15e8ce25f03e1aa8f',1,'Audio.h']]],
+  ['audio_5fdevice_5fisreadyfornextsample',['Audio_Device_IsReadyForNextSample',['../group___group___u_s_b_class_audio_device.html#ga79042f65b310d214e9ab523a50561a36',1,'Audio.h']]],
+  ['audio_5fdevice_5fissamplereceived',['Audio_Device_IsSampleReceived',['../group___group___u_s_b_class_audio_device.html#gaae80a7caba598909714d80272e6fdf28',1,'Audio.h']]],
+  ['audio_5fdevice_5fprocesscontrolrequest',['Audio_Device_ProcessControlRequest',['../group___group___u_s_b_class_audio_device.html#ga8ba3a3d6ccef00636745f47c170b20c7',1,'Audio.h']]],
+  ['audio_5fdevice_5freadsample16',['Audio_Device_ReadSample16',['../group___group___u_s_b_class_audio_device.html#ga52162474e0ddae4a710e73da4f1598a4',1,'Audio.h']]],
+  ['audio_5fdevice_5freadsample24',['Audio_Device_ReadSample24',['../group___group___u_s_b_class_audio_device.html#ga2417e65b05b19faf254ec44a7fec5fc2',1,'Audio.h']]],
+  ['audio_5fdevice_5freadsample8',['Audio_Device_ReadSample8',['../group___group___u_s_b_class_audio_device.html#ga6fa1cb1336bd0646f5f6fd90b4e53193',1,'Audio.h']]],
+  ['audio_5fdevice_5fusbtask',['Audio_Device_USBTask',['../group___group___u_s_b_class_audio_device.html#gab42344655b6c43ee596d486bda50bac2',1,'Audio.h']]],
+  ['audio_5fdevice_5fwritesample16',['Audio_Device_WriteSample16',['../group___group___u_s_b_class_audio_device.html#gad62db8a89187965dd0dfef95fc24741d',1,'Audio.h']]],
+  ['audio_5fdevice_5fwritesample24',['Audio_Device_WriteSample24',['../group___group___u_s_b_class_audio_device.html#ga52e2e80f0a11928664f5f7aa0d2b9b77',1,'Audio.h']]],
+  ['audio_5fdevice_5fwritesample8',['Audio_Device_WriteSample8',['../group___group___u_s_b_class_audio_device.html#gae58c31fea3754764110f908001cfc189',1,'Audio.h']]]
+];
